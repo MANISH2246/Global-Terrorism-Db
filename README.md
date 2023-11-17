@@ -24,4 +24,5 @@ Terrorist attack all over the world
 12. Find the countries where terrorist events have been increasing consistently for the last three years.
 13. Calculate the cumulative number of Weapon over time, considering different regions.
 14. Identify temporal patterns in terrorist events using a time series analysis.
+
 15.showing the count of occurrences for each attack type, 
